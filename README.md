@@ -7,6 +7,10 @@ Agent skills for Vue 3 development.
 > This repository is an early experiment in creating specialized skills for AI agents to enhance their capabilities in Vue 3 development. The skills are derived from real-world issues and best practices, but might be incomplete or inaccurate due to hallucinations.
 >
 > Please give feedback when encountering any issues.
+>
+> 🚧 **This is a community project**
+>
+> I created this project to explore how AI can improve Vue 3 development. If it proves valuable, I plan to propose transferring it to the Vue organization so it can benefit the wider community.
 
 ## Installation
 
