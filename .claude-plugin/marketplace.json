@@ -1,7 +1,7 @@
 {
   "name": "vue-skills",
   "description": "A collection of skills for Vue.js development.",
-  "onwer": {
+  "owner": {
     "name": "vuejs-ai"
   },
   "plugins": [
